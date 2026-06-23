@@ -4,6 +4,17 @@ I'm Hesham Yasser, a high school student from Egypt. I have had a passion for pr
 
 <div align="center">
 
+<a href="mailto:heshamyasser2409@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a> 
+<a href="https://www.linkedin.com/in/hesham-yasser37/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+<a href="https://www.instagram.com/heshamyasser37/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a> 
+<a href="https://www.reddit.com/user/Hesham_37/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white" alt="Reddit" /></a> 
+<a href="https://discord.com/users/752180360875475086/" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://www.youtube.com/@HeshamYasser37/" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23E60023.svg?logo=youtube&logoColor=white" alt="Youtube" /></a>
+<a href="https://tryhackme.com/p/HeshamYasser37/" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+<a href="https://www.chess.com/member/heshamyasser37/" target="_blank"><img src="https://img.shields.io/badge/Chess.com-%2377933c.svg?logo=chess.com&logoColor=white" alt="Chess.com" /></a>
+<a href="https://x.com/heshamyasser37/" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X" /></a>
+
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heshamyasser2409@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesham-yasser37/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heshamyasser37/) 
