@@ -24,12 +24,12 @@ I'm Hesham Yasser, a high school student from Egypt. I have had a passion for pr
 
 <div align="center" style="line-height:0; margin:0; padding:0;">
   <a href="https://github.com/HeshamYasser37/">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=26&duration=1&pause=10&color=22806A&repeat=false&width=435&height=50&lines=Hesham," 
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=26&duration=1&pause=10&color=3b6e8c&repeat=false&width=435&height=50&lines=Hesham," 
          alt="Typing SVG" 
          style="display:block; margin:0 auto 0 -40px; padding:0; border:0;" />
   </a>
   <a href="https://github.com/HeshamYasser37/">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=25&pause=10&color=22806A&random=true&width=435&height=38&lines=Always+learning+new+things.;Always+Search.;Passionate+about+Cybersecurity.;Passionate+about+programming.;Likes+to+play+chess.;Loves+making+new+projects." alt="Typing SVG" 
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=25&pause=10&color=3b6e8c&random=true&width=435&height=38&lines=Always+learning+new+things.;Always+Search.;Passionate+about+Cybersecurity.;Passionate+about+programming.;Likes+to+play+chess.;Loves+making+new+projects." alt="Typing SVG" 
          style="display:block; margin:0 auto; padding:0; border:0;" />
   </a>
 </div>
@@ -43,12 +43,12 @@ I'm Hesham Yasser, a high school student from Egypt. I have had a passion for pr
 <br>
 
 ## 📊 Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeshamYasser37&label=Profile%20views&color=22806a&style=flat" alt="HeshamYasser37" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeshamYasser37&label=Profile%20views&color=3b6e8c&style=flat" alt="HeshamYasser37" /> </p>
 <p align="left">
-  <img align="" height='160px' src="https://beautiful-github-homepage.vercel.app/api?username=HeshamYasser37&hide_title=false&show_icons=true&theme=gotham&include_all_commits=true" alt="HeshamYasser37" />
-  <img align="" height='160px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=HeshamYasser37&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+  <img align="" height='160px' src="https://beautiful-github-homepage.vercel.app/api?username=HeshamYasser37&hide_title=false&show_icons=true&include_all_commits=true&bg_color=121820&title_color=3b6e8c&icon_color=4a85a6&text_color=c5d1db&border_color=233545" alt="HeshamYasser37" />
+  <img align="" height='160px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=HeshamYasser37&hide_title=false&layout=compact&count_private=true&bg_color=121820&title_color=3b6e8c&icon_color=4a85a6&text_color=c5d1db&border_color=233545" />
 </p>
 
-<br>
+<br><br>
 
-[![skyline-teal-better.png](https://i.postimg.cc/Hx7YNBDF/skyline-teal-better.png)](https://postimg.cc/bDpfD0vR)
+![skyline-teal-better.png](https://i.postimg.cc/15z8VpPS/photoo37.png)
