@@ -13,6 +13,7 @@ I'm Hesham Yasser, a high school student from Egypt. I have had a passion for pr
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/HeshamYasser37/)
 [![Chess.com](https://img.shields.io/badge/Chess.com-%2377933c.svg?logo=chess.com&logoColor=white)](https://www.chess.com/member/heshamyasser37/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/heshamyasser37/) 
+[![Hevy](https://img.shields.io/badge/Hevy-000000.svg?logo=hevy&logoColor=white)](https://hevy.com/user/hesham37)
 
 </div>
 
